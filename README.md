@@ -34,4 +34,6 @@ https://github.com/thakyuu/VRC_AutoAffinitySetter_ForRyzen/releases/tag/0.0.1
 
 VRChat起動後に実行するだけ
 
-AppBinderとかで自動起動させると楽かも
+AppBinderとかでVRChat起動時に自動実行させると何も考えずに使えて便利です
+
+https://github.com/TenteEEEE/app_binder
