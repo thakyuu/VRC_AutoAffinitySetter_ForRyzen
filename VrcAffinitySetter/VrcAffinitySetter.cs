@@ -37,8 +37,12 @@ namespace VrcAffinitySetter
 			Console.WriteLine($"Current Processor > {processorName}");
 
 			var affinity = (IntPtr) 1;
-			
-			if (Regex.IsMatch(processorName, @" [123]600(X|XT|AF)?", RegexOptions.Singleline))
+
+			if (!Regex.IsMatch(processorName, @" Ryzen", RegexOptions.Singleline))
+			{
+				Console.WriteLine("Processor Not Compatible");
+				Environment.Exit(0);
+			}else if (Regex.IsMatch(processorName, @" [123]600(X|XT|AF)?", RegexOptions.Singleline))
 			{
 				// 6C/12T(3C/CCX)
 				affinity = (IntPtr) 0x0FC0;
