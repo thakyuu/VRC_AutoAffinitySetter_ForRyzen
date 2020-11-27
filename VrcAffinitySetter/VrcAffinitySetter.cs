@@ -38,10 +38,10 @@ namespace VrcAffinitySetter
 
 			var affinity = (IntPtr) 1;
 			
-			if (Regex.IsMatch(processorName, @" 3600(X|XT)?", RegexOptions.Singleline))
+			if (Regex.IsMatch(processorName, @" [23]600(X|XT)?", RegexOptions.Singleline))
 			{
 				affinity = (IntPtr) 0x0FC0;
-			}else if (Regex.IsMatch(processorName, @" 3[78]00(X|XT)?", RegexOptions.Singleline))
+			}else if (Regex.IsMatch(processorName, @" [23][78]00(X|XT)?", RegexOptions.Singleline))
 			{
 				affinity = (IntPtr) 0xFF00;
 			}else if (Regex.IsMatch(processorName, @" 3900(X|XT)?", RegexOptions.Singleline))

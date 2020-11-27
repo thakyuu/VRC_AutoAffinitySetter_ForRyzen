@@ -4,12 +4,9 @@
     <projectFile>VrcAffinitySetter/VrcAffinitySetter.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="785280c5-00cb-4c1b-80b4-b54aad222185" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VrcAffinitySetter.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VrcAffinitySetter/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VrcAffinitySetter/VrcAffinitySetter.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VrcAffinitySetter/VrcAffinitySetter.csproj" afterDir="false" />
+    <list default="true" id="785280c5-00cb-4c1b-80b4-b54aad222185" name="Default Changelist" comment="InitialCommit">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.VrcAffinitySetter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VrcAffinitySetter/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VrcAffinitySetter/VrcAffinitySetter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/VrcAffinitySetter/VrcAffinitySetter.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,14 +69,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606369941630</updated>
-      <workItem from="1606369946682" duration="7232000" />
+      <workItem from="1606369946682" duration="9173000" />
+      <workItem from="1606446457226" duration="131000" />
     </task>
+    <task id="LOCAL-00001" summary="InitialCommit">
+      <created>1606377771420</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606377771420</updated>
+    </task>
+    <task id="LOCAL-00002" summary="InitialCommit">
+      <created>1606377783334</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606377783334</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -91,8 +104,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="InitialCommit" />
+    <option name="LAST_COMMIT_MESSAGE" value="InitialCommit" />
   </component>
 </project>
