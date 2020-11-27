@@ -8,12 +8,18 @@ MIT Licenseです。
 下記RyzenCPUを使用しているVRChatユーザ
 ※Ryzen 9 3900Xでのみ動作確認済み
 
+Zen3
 ```
 Ryzen 9 5950X
 Ryzen 9 5900X
+```
+
+Zen2
+```
 Ryzen 9 3950X
 Ryzen 9 3900XT
 Ryzen 9 3900X
+Ryzen 9 3900
 Ryzen 7 3800XT
 Ryzen 7 3800X
 Ryzen 7 3700X
@@ -21,6 +27,31 @@ Ryzen 5 3600XT
 Ryzen 5 3600X
 Ryzen 5 3600
 ```
+
+Zen+
+```
+Ryzen 7 PRO 2700X
+Ryzen 7 2700X
+Ryzen 7 PRO 2700
+Ryzen 7 2700
+Ryzen 5 2600X
+Ryzen 5 PRO 2600
+Ryzen 5 2600
+Ryzen 5 1600AF
+```
+
+Zen
+```
+Ryzen 7 1800X
+Ryzen 7 PRO 1700X
+Ryzen 7 1700X
+Ryzen 7 PRO 1700
+Ryzen 7 1700
+Ryzen 5 1600X
+Ryzen 5 PRO 1600
+Ryzen 5 1600
+```
+
 
 ## なにこれ
 
