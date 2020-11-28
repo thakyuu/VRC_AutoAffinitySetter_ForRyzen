@@ -6,7 +6,7 @@ MIT Licenseです。
 ## 対象ユーザ
 
 下記RyzenCPUを使用しているVRChatユーザ
-※Ryzen 9 3900Xでのみ動作確認済み
+※Ryzen 9 3900X/5950Xでのみ動作確認済み
 
 Zen3
 ```
