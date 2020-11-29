@@ -63,7 +63,7 @@ Ryzenの場合、なんかVRChatで利用するCPUを単一CCX内のみにする
 
 https://github.com/thakyuu/VRC_AutoAffinitySetter_ForRyzen/releases/tag/0.0.3a
 
-VRChat起動後に実行するだけ
+毎回VRChat起動後に実行するだけ
 
 AppBinderとかでVRChat起動時に自動実行させると何も考えずに使えて便利です
 
