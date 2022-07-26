@@ -3,6 +3,8 @@
 
 MIT Licenseです。
 
+Easy Anti-Cheat導入後は動作しなくなる可能性があります
+
 ## 対象ユーザ
 
 下記RyzenCPUを使用しているVRChatユーザ
