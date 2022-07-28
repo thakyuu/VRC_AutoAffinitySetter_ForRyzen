@@ -116,8 +116,8 @@ namespace VrcAffinitySetter
 				Environment.Exit(0);
 			}
 
-			Console.WriteLine("Check VRChat Process...");
-			SetAffinity("VRChat", affinity);
+			Console.WriteLine("Check VRChat Launcher Process...");
+			SetAffinity("start_protected_game", affinity);
 		}
 	}
 
