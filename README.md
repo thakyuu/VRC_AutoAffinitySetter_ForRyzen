@@ -4,6 +4,7 @@
 MIT Licenseです。
 
 Easy Anti-Cheat導入後は動作しなくなる可能性があります
+-> 起動前のスプラッシュ画面の間に実行すればいいそうなので対応版作りました
 
 ## 対象ユーザ
 
@@ -63,10 +64,12 @@ Ryzenの場合、なんかVRChatで利用するCPUを単一CCX内のみにする
 
 ## どうやって使うの
 
-https://github.com/thakyuu/VRC_AutoAffinitySetter_ForRyzen/releases/tag/0.0.3a
+https://github.com/thakyuu/VRC_AutoAffinitySetter_ForRyzen/releases/tag/0.0.4
 
-毎回VRChat起動後に実行するだけ
+VRChat起動中の、EACのスプラッシュ画面が出ている間に実行するだけ
 
-AppBinderとかでVRChat起動時に自動実行させると何も考えずに使えて便利です
+AppBinderとかで`start_protected_game.exe`起動時に自動実行させると何も考えずに使えて便利です
 
 https://github.com/TenteEEEE/app_binder
+
+※EACの仕様で、VRChat本体が起動した後には使えません
